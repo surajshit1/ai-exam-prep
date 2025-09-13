@@ -1,0 +1,24 @@
+# === Core AI orchestration ===
+crewai
+crewai-tools
+
+# === LLM integrations ===
+langchain
+langchain-community
+langchain-google-genai
+
+# === Environment management ===
+python-dotenv
+
+# === Web browsing & scraping ===
+playwright
+browser-use
+
+# === Data & utilities ===
+PyYAML
+pandas
+requests
+
+# === Formatting & output ===
+rich
+tqdm
